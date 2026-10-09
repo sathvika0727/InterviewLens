@@ -1,5 +1,5 @@
 # InterviewLens - AI Interview Coach
-Built by Sathvika | B.Tech 1st Year CSE
+Built by Sathvika | B.Tech Final Year IT
 
 Features: Eye Contact Tracking + Voice Analysis
 Tech: Python, OpenCV, MediaPipe
